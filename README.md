@@ -2,10 +2,16 @@
 
 <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<br />
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<h3 align="center">!!!</h3>
+
+###
+<div>
+<p>________________________________________________________________________________________________________</p>
+ </div>
+<h3 align="center">Contact me</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
