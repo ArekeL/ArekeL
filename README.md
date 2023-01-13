@@ -1,4 +1,4 @@
-## 'Hello World' 👋, I'm Arek
+# 'Hello World' 👋, I'm Arek
 ### I'm a self-taught passionate FrontEnd developer
 ![Front-end Developer ](https://github.com/ArekeL/ArekeL/blob/main/gh_banner.jpg)
 
@@ -22,20 +22,20 @@
 <p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80" style=margin: "10px" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80" style=margin: "10px" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" style=margin: "10px" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" margin="20px" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="70" height="70" margin="20px"/> </a> </p>
 </div>
 
-### In my free time
+### Other tricks up my sleeve
+#### Video & photo edditing
+
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='50'>](a)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg' alt='adobeaftereffects' height='50'>](a)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='50'>](a)  
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## What am I doing now?
+
+- 🔭 I’m currently working on: web development support for a few projects. Development and implementation of code to monetize websites and mobile apps.
+- 🌱 I’m currently learning: React and React Native are what I'm currently focusing on, but I'm already looking for further development.
+- 👯 I am excited to collaborate with: a team where I can learn, grow, and enhance my skills...
+- 📫 How to reach me: If you need me you will find me :) Try on social media :) 
+- ⚡ Fun fact: Did you know that the iconic game Tetris was written in just two days by its creator, Alexey Pajitnov? :)
 
   
   
