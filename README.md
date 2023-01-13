@@ -1,7 +1,9 @@
 ## 'Hello World' 👋, I'm Arek
-### Front-end Developer 
+### I'm a self-taught passionate FrontEnd developer
 ![Front-end Developer ](https://github.com/ArekeL/ArekeL/blob/main/gh_banner.jpg)
 
+### About me:
+<p>My passion lies in coding and bringing new visions to life. My expertise includes HTML, CSS, JS, and React. I am always eager to learn and improve my skills to stay current in the industry. I am dedicated, flexible, and ready for new challenges. I believe the future of the industry is bright and I am excited to be a part of it.</p>
 
 
 ### A bit more on my social media
@@ -11,7 +13,7 @@
 <div width="100%">
 <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
 <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</ div>
+
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
@@ -24,8 +26,6 @@
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='50'>](a)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg' alt='adobeaftereffects' height='50'>](a)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='50'>](a)  
 
 
-**ArekeL/ArekeL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -36,4 +36,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  
+  
+
+
 
