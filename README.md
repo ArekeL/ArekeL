@@ -29,7 +29,6 @@
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='50'>](a)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg' alt='adobeaftereffects' height='50'>](a)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='50'>](a)  
 
 
-
 ## What am I doing now?
 
 - 🔭 I’m currently working on: web development support for a few projects. Development and implementation of code to monetize websites and mobile apps.
