@@ -1,4 +1,17 @@
-### Hi there, I'm Arek👋
+### Hi there 👋, I'm Arek
+#### Front-end Developer 
+![Front-end Developer ](https://github.com/ArekeL/ArekeL/blob/main/gh_banner.jpg)
+
+
+
+<p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArekeL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arek-el/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alechnik) 
+</ p>
+
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg' alt='adobeaftereffects' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaudition.svg' alt='adobeaudition' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](a)  
+
+
+
 <br />
 <div width="100%">
 <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
