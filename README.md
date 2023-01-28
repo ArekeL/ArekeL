@@ -1,7 +1,7 @@
 # 'Hello World' 👋, I'm Arek
 
 ### I'm a self-taught passionate FrontEnd developer
-![Front-end Developer ](https://github.com/ArekeL/ArekeL/blob/main/gh_banner.jpg)
+![Front-end Developer ](https://github.com/ArekeL/ArekeL/blob/main/github_banner.jpg)
 
 ### About me:
 <p>My passion lies in coding and bringing new visions to life. My expertise includes HTML, CSS, JS, and React. I am always eager to learn and improve my skills to stay current in the industry. I am dedicated, flexible, and ready for new challenges. I believe the future of the industry is bright and I am excited to be a part of it.</p>
