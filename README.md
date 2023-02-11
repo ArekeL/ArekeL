@@ -1,5 +1,4 @@
-# 'Hello World' 👋, I'm Arek
-
+# 'Hello World' 👋
 ### I'm a self-taught passionate FrontEnd developer
 ![Front-end Developer ](https://github.com/ArekeL/ArekeL/blob/main/github_banner.jpg)
 
