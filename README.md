@@ -27,8 +27,15 @@ style for stats - &theme=tokyonight -->
 
 <!-- style for stats - &layout=compact
 style for stats - &theme=tokyonight -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arekel&theme=tokyonight&layout=compact" />
+
 </div>
+
+
+<p >
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arekel&theme=tokyonight&layout=compact" />
+<img  width="56%" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arekel&theme=tokyonight" alt="Arek eL"/>
+</p>
+
 
 
 <br /><br />
