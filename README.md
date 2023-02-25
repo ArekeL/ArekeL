@@ -1,4 +1,5 @@
 ![Front-end Developer ](https://github.com/ArekeL/ArekeL/blob/main/github_banner.jpg)
+<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=A830C6&width=435&lines=HI%2C+I+am+Arek;A+Front-end+Web+developer;Hungry++To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" /></a></h1>
 
 # 'Hello World' 👋
 ### I'm a self-taught passionate FrontEnd developer
@@ -35,7 +36,8 @@
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='50'>](a)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg' alt='adobeaftereffects' height='50'>](a)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='50'>](a)  
 
 
-## What am I doing now?
+<details>
+  <summary>🧮 What am I doing now?</summary>
 
 - 🔭 I’m currently working on: web development support for a few projects. Development and implementation of code to monetize websites and mobile apps.
 - 🌱 I’m currently learning: React and React Native are what I'm currently focusing on, but I'm already looking for further development.
@@ -43,7 +45,7 @@
 - 📫 How to reach me: If you need me you will find me :) Try on social media :) 
 - ⚡ Fun fact: Did you know that the iconic game Tetris was written in just two days by its creator, Alexey Pajitnov? :)
 
-  
+  </details>
   
 
 
