@@ -1,7 +1,7 @@
 ![Front-end Developer ](https://github.com/ArekeL/ArekeL/blob/main/github_banner.jpg)
 <h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=A830C6&width=435&lines=HI%2C+I+am+Arek;A+Front-end+Web+developer;Hungry++To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" /></a></h1>
 
-# 'Hello World' 👋
+# 'Hello World'
 ### I'm a self-taught passionate FrontEnd developer
 
 ### About me:
@@ -12,14 +12,19 @@
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/ArekeL) [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/arek-el/) [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='50'>](https://www.facebook.com/alechnik) 
 
 <br />
-<div width="100%">
+<div width="90%" align="center">
+<!-- align="left" width="47%" -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=arekel&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arekel&layout=compact" />
+<img align="right" width="47%"src="https://github-readme-streak-stats.herokuapp.com/?user=arekel&theme=radical" alt="mystreak"/>
+</div>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
+<br />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arekel&layout=compact" />
 </div>
 
 
