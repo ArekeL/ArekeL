@@ -12,10 +12,11 @@
 [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/ArekeL) [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/arek-el/) [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='50'>](https://www.facebook.com/alechnik) 
 
 <br />
+<!-- style for stats - &theme=radical
+style for stats - &theme=tokyonight -->
 <div width="90%" align="center">
-<!-- align="left" width="47%" -->
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=arekel&show_icons=true&theme=radical" />
-<img align="right" width="48%"src="https://github-readme-streak-stats.herokuapp.com/?user=arekel&theme=radical" alt="mystreak"/>
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=arekel&show_icons=true&theme=tokyonight" />
+<img align="right" width="48%"src="https://github-readme-streak-stats.herokuapp.com/?user=arekel&theme=tokyonight" alt="mystreak"/>
 </div>
 
 <div align="center">
@@ -24,7 +25,9 @@
        alt="snake" /></a>
 <br />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arekel&layout=compact" />
+<!-- style for stats - &layout=compact
+style for stats - &theme=tokyonight -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arekel&theme=tokyonight&layout=compact" />
 </div>
 
 
