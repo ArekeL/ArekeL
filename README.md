@@ -1,4 +1,4 @@
-![Front-end Developer ](https://github.com/ArekeL/ArekeL/blob/main/github_banner_001.jpg)
+![Front-end Developer ](https://github.com/ArekeL/ArekeL/blob/main/github_banner_003.jpg)
 <h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=A830C6&width=435&lines=HI%2C+I+am+Arek+Lechnik;A+Front-end+Web+developer;Hungry+To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" /></a></h1>
 
 # 'Hello World'
