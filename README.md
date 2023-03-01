@@ -1,8 +1,5 @@
 ![Front-end Developer ](https://github.com/ArekeL/ArekeL/blob/main/github_banner_001.jpg)
-<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=A830C6&width=435&lines=HI%2C+I+am+Arek+Lechnik;A+Front-end+Web+Developer;Hungry+To+Learn+New+Technologies;Ready+For+New+Challenges" alt="Typing SVG" /></a></h1>
-
-# 'Hello World'
-### I'm a self-taught passionate FrontEnd developer
+<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=160&color=A830C6&width=380&lines=HI%2C+I+am+Arek+Lechnik;A+Front-end+Web+Developer;Fascinated+By+New+Technologies;Ready+For+New+Challenges" alt="Typing SVG" /></a></h1>
 
 ### About me:
 <p>My passion lies in coding and bringing new visions to life. My expertise includes HTML, CSS, JS, and React. I am always eager to learn and improve my skills to stay current in the industry. I am dedicated, flexible, and ready for new challenges. I believe the future of the industry is bright and I am excited to be a part of it.</p>
