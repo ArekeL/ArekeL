@@ -28,9 +28,9 @@ style for stats - &theme=tokyonight -->
 </div>
 
 
-<p >
+<p align="center">
 <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arekel&theme=tokyonight&layout=compact" />
-<img  width="56%" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arekel&theme=tokyonight" alt="Arek eL"/>
+<!-- <img  width="56%" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arekel&theme=tokyonight" alt="Arek eL"/> -->
 </p>
 
 
