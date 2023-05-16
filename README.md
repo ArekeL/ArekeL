@@ -51,7 +51,7 @@ style for stats - &theme=tokyonight -->
 ### Other tricks up my sleeve
 #### Video & photo edditing
 
-[<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='50'>](a)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeaftereffects.svg' alt='adobeaftereffects' height='50'>](a)  [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='50'>](a)  
+[<img align="center" src='https://upload.wikimedia.org/wikipedia/commons/5/58/Adobe_Premiere_Pro_CS6_Icon.png' alt='adobepremierepro' height='50'>](a)  [<img align="center" src='https://upload.wikimedia.org/wikipedia/commons/d/d3/Adobe_After_Effects_CS6_Icon.png' alt='adobeaftereffects' height='50'>](a)  [<img align="center" src='https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png' alt='adobephotoshop' height='50'>](a)  
 
 
 <details>
