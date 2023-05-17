@@ -2,12 +2,14 @@
 <h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=160&color=A830C6&width=380&lines=HI%2C+I+am+Arek+Lechnik;A+Front-end+Web+Developer;Fascinated+By+New+Technologies;Ready+For+New+Challenges" alt="Typing SVG" /></a></h1>
 
 ### About me:
+<br/>
 <p>My passion lies in coding and bringing new visions to life. My expertise includes HTML, CSS, JS, and React. I am always eager to learn and improve my skills to stay current in the industry. I am dedicated, flexible, and ready for new challenges. I believe the future of the industry is bright and I am excited to be a part of it.</p>
 
 
 ### A bit more on my social media
-[<img align="center" src='https://desktop.github.com/images/desktop-icon.svg' alt='github' height='50'>](https://github.com/ArekeL) [<img align="center" src='https://github.com/ArekeL/ArekeL/blob/main/linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/arek-el/) [<img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='50'>](https://www.facebook.com/alechnik) 
+[<img align="center" src='https://desktop.github.com/images/desktop-icon.svg' alt='github' height='65'>](https://github.com/ArekeL) [<img align="center" src='https://github.com/ArekeL/ArekeL/blob/main/linkedin.png' alt='linkedin' height='65'>](https://www.linkedin.com/in/arek-el/) [<img align="center" src='https://github.com/ArekeL/ArekeL/blob/main/fb_icon.png' alt='facebook' height='65'>](https://www.facebook.com/alechnik) 
 
+<br />
 <br />
 <!-- style for stats - &theme=radical
 style for stats - &theme=tokyonight -->
